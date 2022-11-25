@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="service-rol" />
+        <module name="service-year" />
+        <module name="service-asistencia" />
+        <module name="service-usuario" />
+        <module name="service-bimestre" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="service-asistencia" target="11" />
+      <module name="service-bimestre" target="11" />
+      <module name="service-rol" target="11" />
+      <module name="service-usuario" target="11" />
+      <module name="service-year" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="service-asistencia" options="-parameters" />
+      <module name="service-bimestre" options="-parameters" />
+      <module name="service-rol" options="-parameters" />
+      <module name="service-usuario" options="-parameters" />
+      <module name="service-year" options="-parameters" />
+    </option>
+  </component>
+</project>

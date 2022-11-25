@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Proyecto-Integracion-Microservicios.iml" filepath="$PROJECT_DIR$/.idea/Proyecto-Integracion-Microservicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backend/service-asistencia/service-asistencia.iml" filepath="$PROJECT_DIR$/Backend/service-asistencia/service-asistencia.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backend/service-bimestre/service-bimestre.iml" filepath="$PROJECT_DIR$/Backend/service-bimestre/service-bimestre.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backend/service-rol/service-rol.iml" filepath="$PROJECT_DIR$/Backend/service-rol/service-rol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backend/service-usuario/service-usuario.iml" filepath="$PROJECT_DIR$/Backend/service-usuario/service-usuario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Backend/service-year/service-year.iml" filepath="$PROJECT_DIR$/Backend/service-year/service-year.iml" />
+    </modules>
+  </component>
+</project>

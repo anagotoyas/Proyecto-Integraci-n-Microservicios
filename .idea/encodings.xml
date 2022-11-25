@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Backend/service-asistencia/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/service-asistencia/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/service-bimestre/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/service-bimestre/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/service-rol/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/service-rol/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/service-usuario/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/service-usuario/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/service-year/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Backend/service-year/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
